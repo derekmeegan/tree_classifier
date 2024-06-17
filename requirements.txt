@@ -1,5 +1,4 @@
 fastbook==0.0.29
 fastai==2.7.15
-pillow<7
 packaging
 voila
