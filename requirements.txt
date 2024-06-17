@@ -1,0 +1,2 @@
+fastbook==0.0.29
+fastai==2.7.15
