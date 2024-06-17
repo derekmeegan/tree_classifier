@@ -1,4 +1,4 @@
 fastbook==0.0.29
 fastai==2.7.15
 voila==0.5.7
-ipywidgets==7.7.2
+ipywidgets==7.5.1
