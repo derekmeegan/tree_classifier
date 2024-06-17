@@ -1,3 +1,4 @@
 fastbook==0.0.29
 fastai==2.7.15
 voila==0.5.7
+jupyterlab-widgets==1.1.1
