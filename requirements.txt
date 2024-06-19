@@ -1,4 +1,5 @@
-fastbook==0.0.29
-fastai==2.7.15
-packaging
 voila
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
